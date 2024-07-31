@@ -1,4 +1,4 @@
-# Contract Feature Generation Project
+# Python Assignment
 
 This project is an assignment for Space International. It processes contract data, generates features, and saves the results.
 
